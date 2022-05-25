@@ -1,0 +1,9 @@
+.example-card {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.container {
+  display: grid;
+  padding: 60px 50px;
+}
